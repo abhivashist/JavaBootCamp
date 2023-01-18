@@ -79,6 +79,19 @@ public class Main {
         motive M2 = new Operational();
         M2.functionality();
         M2.testing();
+
+
+       // ...................!!!!!!!!!!!!!METHOD OVERLOADING !!!!!!!!!.......
+        Doctor doctorObj = new Doctor();
+        // treatPatient method in class Doctor will be executed
+        doctorObj.treatPatient();
+
+        Surgeon surgeonObj = new Surgeon();
+        // treatPatient  method in class Surgeon  will be executed
+        surgeonObj.treatPatient();
+        Doctor doctorObj2 = new Surgeon();
+         doctorObj2.treatPatient();
+
     }
 
 }
