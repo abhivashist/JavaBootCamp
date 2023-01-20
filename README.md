@@ -23,6 +23,7 @@
     * ## [Multiple catch](https://github.com/abhivashist/JavaBootCamp/blob/master/src/multipleCatch_Demo.java)
     * ## [User Defined Exceptions](https://github.com/abhivashist/JavaBootCamp/blob/master/src/User_Defined_Exception.java)
     * ## [Finally Block](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Finally_Demo.java)
+       #### Java finally block is a block that is used to execute important code such as closing connection, stream etc. Java finally block is always executed whether exception is handled or not.
 * # File Handling
     * ## [Create a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Creating_New_File.java)
     * ## [Write a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/writing_to_File.java)
