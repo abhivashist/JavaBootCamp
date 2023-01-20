@@ -25,6 +25,8 @@
     * ## [Finally Block](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Finally_Demo.java)
        #### Java finally block is a block that is used to execute important code such as closing connection, stream etc. Java finally block is always executed whether exception is handled or not.
 * # File Handling
+     #### File Handling is an integral part of any programming language as file handling enables us to store the output of any particular program in a file and allows           us to perform certain operations on it.
+          In simple words, file handling means reading and writing data to a file.
     * ## [Create a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Creating_New_File.java)
     * ## [Write a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/writing_to_File.java)
     * ## [Read a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Read_a_File.java)
