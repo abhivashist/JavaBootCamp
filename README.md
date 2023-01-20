@@ -17,7 +17,7 @@
 * ## [Enum](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Enum_Demo.java)
 * # Exception Handling
      #### An exception is an unexpected event that occurs during program execution. It affects the flow of the program instructions which can cause the program to terminate abnormally.
-     #### An exception can occur for many reasons. Some of them are: Invalid user input, Device failure, Loss of network connection, Physical limitations (out of disk      #### memory), Code errors, Opening an unavailable file
+     #### An exception can occur for many reasons. Some of them are: Invalid user input, Device failure, Loss of network connection, Physical limitations (out of disk       memory), Code errors, Opening an unavailable file
     * ## [try-catch](https://github.com/abhivashist/JavaBootCamp/blob/master/src/tryCatch_Demo.java)
     * ## [Nested try-catch](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Nested_tryCatch.java)
     * ## [Multiple catch](https://github.com/abhivashist/JavaBootCamp/blob/master/src/multipleCatch_Demo.java)
