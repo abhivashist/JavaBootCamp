@@ -1,0 +1,15 @@
+//Java throw example
+void a()
+{
+  throw new ArithmeticException("Incorrect");
+}
+//Java throws example
+void a()throws ArithmeticException
+{
+  //method code
+}
+//Java throw and throws example
+void a()throws ArithmeticException
+{
+  throw new ArithmeticException("Incorrect");
+}
