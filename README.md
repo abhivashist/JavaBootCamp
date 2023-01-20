@@ -16,16 +16,16 @@
 * ## [While loop]()
 * ## [Enum]()
 * ## Exception Handling
-     #### * [try-catch]()
-     #### * [Nested try-catch]()
-     #### * [Multiple catch]()
-     #### * [User Defined Exceptions]()
-     #### * [Finally Block]()
+     ### [try-catch]()
+     ### [Nested try-catch]()
+     ### [Multiple catch]()
+     ### [User Defined Exceptions]()
+     ### [Finally Block]()
 * ## File Handling
-     #### * [Create a File]()
-     #### * [Write a File]()
-     #### * [Read a File]()
-     #### * [Delete a File]()
+     ### [Create a File]()
+     ### [Write a File]()
+     ### [Read a File]()
+     ### [Delete a File]()
      
   
 
