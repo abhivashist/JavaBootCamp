@@ -1,3 +1,5 @@
+package PreviousCodes;
+
 import java.util.Scanner;
 public class ForLoop_Demo {
 

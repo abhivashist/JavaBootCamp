@@ -1,3 +1,5 @@
+package PreviousCodes;
+
 import java.util.Scanner;
 public class WhileLoop_Demo {
     public static void main(String[] args) {

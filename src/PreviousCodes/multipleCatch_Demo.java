@@ -1,3 +1,5 @@
+package PreviousCodes;
+
 public class multipleCatch_Demo {
 
     public static void main(String args[]){

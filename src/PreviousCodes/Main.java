@@ -1,27 +1,21 @@
+package PreviousCodes;
+
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!!");
 
         //.................!!!!!Method Overloading.........!!!!!!
         Doctor doctorObj = new Doctor();
-        // treatPatient method in class Doctor will be executed
+        // treatPatient method in class PreviousCodes.Doctor will be executed
         doctorObj.treatPatient();
 
         Surgeon surgeonObj = new Surgeon();
-        // treatPatient  method in class Surgeon  will be executed
+        // treatPatient  method in class PreviousCodes.Surgeon  will be executed
         surgeonObj.treatPatient();
 
         //..........!!!!!!!!!!!!! Abstraction!!!!!!!!!!................
 
-        Product p1 = new Product();
-        p1.functionality();
-        p1.testing();
-
-
-        Operational o1 = new Operational();
-        o1.greetmsg();
-        o1.functionality();
-        o1.testing();
 
       //  !!!!!!!!!!...................IF-ELSE     and    STATIC................!!!!!!!!!!!!!
 

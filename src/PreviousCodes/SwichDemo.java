@@ -1,3 +1,5 @@
+package PreviousCodes;
+
 public class SwichDemo {
     public class Switch_Demo {
         public static void main(String args[])

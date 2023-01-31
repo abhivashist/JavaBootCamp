@@ -1,3 +1,5 @@
+package PreviousCodes;
+
 class Doctor {
     public void treatPatient() {
         System.out.println("Parent class method invoke");

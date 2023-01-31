@@ -1,3 +1,5 @@
+package PreviousCodes;
+
 enum Size {
     SMALL, MEDIUM, LARGE, EXTRALARGE
 }
