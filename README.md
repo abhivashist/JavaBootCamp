@@ -30,6 +30,13 @@
     * ## [Write a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/writing_to_File.java)
     * ## [Read a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Read_a_File.java)
     * ## [Delete a File](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Delete_a_File.java)
+    
+* # Collections
+     #### The Java collections framework provides a set of interfaces and classes to implement various data structures and algorithms.
+    * ## [ArrayList](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Collections/ArrayList_Demo.java)
+    * ## [Hashmap](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Collections/HashMap_Demo.java)
+    * ## [Hashset](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Collections/HashSet_Demo.java)
+    * ## [Treeset](https://github.com/abhivashist/JavaBootCamp/blob/master/src/Collections/TreeSet_Demo.java)
      
   
 
