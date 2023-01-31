@@ -33,7 +33,7 @@ class Operational extends motive {
     }
     }
 
-    class clari5 {
+   class clari5 {
     public static void main(String[] args)
     {
         Product p1 = new Product();
