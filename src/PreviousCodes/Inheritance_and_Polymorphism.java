@@ -23,6 +23,6 @@ class Product_team extends Clari5_Emp {
     void getInfo() {
         System.out.println("\n\n\n\t\t\t Welcome to " + team + " team \n" + " Hii " + name + "\n Your Employee ID : " + emp_no + "\n DOJ : " + doj +
                         "\n Leaves Remaining : " + holidays + "\n Your manager is : " + manager + "\n Reporting to : " + report +
-                "\n Your Tech Stack : " + tech + "\n Team PreviousCodes.Size : " + no_of_people + " people");
+                "\n Your Tech Stack : " + tech + "\n Team Enum.Size : " + no_of_people + " people");
     }
 }

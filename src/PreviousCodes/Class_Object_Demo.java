@@ -13,6 +13,6 @@ public class Class_Object_Demo
 
     // method 1
     public String getInfo() {
-        return ("Breed is: " + breed + " PreviousCodes.Size is:" + size + " Age is:" + age + " color is: " + color + " having " + legs + " legs " );
+        return ("Breed is: " + breed + " Enum.Size is:" + size + " Age is:" + age + " color is: " + color + " having " + legs + " legs " );
     }
 }
